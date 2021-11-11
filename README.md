@@ -13,4 +13,4 @@ Saktura, WM, H Munack, AT Codilean, R Wood, F Petchey, Z Jacobs, A Williams, S U
 Alexandru Codilean: <a href="mailto:codilean@uow.edu.au">e-mail</a>; tel: 02 4221 3426; address: Building 41, SMAH/SEALS, University of Wollongong, NSW 2522
 
 [<img src="CabahFCP.jpg" alt="Centre of Excellence for Australian Biodiversity and Heritage" width="170" align="right" />](http://EpicAustralia.org.au)
-[<img src="OCTOPUSlogo.png" alt="OCTOPUS" width="170" align="left" />](http://EpicAustralia.org.au)
+[<img src="OCTOPUSlogo.png" alt="OCTOPUS" width="120" align="left" />](http://EpicAustralia.org.au)
